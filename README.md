@@ -27,5 +27,12 @@ Animation: GSAP is used to handle all animations snd some basic CSS is used for 
 >[Link to live page](https://medieinstitutet.github.io/fed24d-grafiska-verktyg-individuell-AgnesWilson/)
 
 
-![Animated gif](astro-boogie.gif)
+![Animated gif](assets/astro-boogie.gif)
 
+# AI-generated image
+I wanted to keep working on the **Astro Boogie** theme so i took to AI to generate an image suitable for some Astro boogie. My goal was to create a retro-inspired album cover that reflects the playful, cosmic energy of the project. The image embodies a 70s boogie feel with a touch of funky, intergalactic style, as if it were a vintage vinyl record cover ready for a cosmic dance party.
+
+This is the prompt i used:
+>"Design a retro-style album cover inspired by 70s and 80s space-themed aesthetics. The artwork should feature vibrant, neon colors, swirling planets, glowing stars, and cosmic dust. Include a bold, funky font for the album title 'Astro Boogie,' with a subtle glow around the letters, giving them a lively, pulsing effect.
+
+![AI generated image](assets/astro-boogie-AI-image.png)

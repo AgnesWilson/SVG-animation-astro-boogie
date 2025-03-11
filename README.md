@@ -22,4 +22,10 @@ Design: The entire deign of the Astro Boogie scene was created as an SVG file in
 
 Animation: GSAP is used to handle all animations snd some basic CSS is used for layout and styling.
 
+
+> ### Go out and enjoy som **Astro Boogie** time! 
+>[Link to live page](https://medieinstitutet.github.io/fed24d-grafiska-verktyg-individuell-AgnesWilson/)
+
+
 ![Animated gif](astro-boogie.gif)
+

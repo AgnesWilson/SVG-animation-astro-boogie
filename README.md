@@ -36,3 +36,5 @@ This is the prompt i used:
 >"Design a retro-style album cover inspired by 70s and 80s space-themed aesthetics. The artwork should feature vibrant, neon colors, swirling planets, glowing stars, and cosmic dust. Include a bold, funky font for the album title 'Astro Boogie,' with a subtle glow around the letters, giving them a lively, pulsing effect.
 
 ![AI generated image](assets/astro-boogie-AI-image.png)
+
+testing move to my own repo
